@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄Here is yinhao's github space!Welcome.
+
+😯Although there is no enough project now, it will record my effort.
+
+---
+![YinHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinhao1102&theme=dark&show_icons=true)
+
+---
+[![My language for programming](https://github-readme-stats.vercel.app/api/top-langs/?username=yinhao1102&theme=dark)](https://github.com/yinhao1102/github-readme-stats)
